@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ProdZanna
+- 👋 Hi, I’m @DavideZaninello
 - 👀 I’m interested in programming and making music
-- 🌱 I’m currently going to school and I'm in the last year
-- 💞️ I’m looking to have new friends and to work with them
-- 📫 How to reach me: Instagram--> @ProdZanna; Email--> davidezaninello118@gmail.com
+- 🌱 I’m currently working part-time and studying data-analysis
+- 💞️ I’m looking to create connection to work on projects
+- 📫 How to reach me: Instagram--> @davide_zaninello; Email--> davidezaninello118@gmail.com
 
 <!---
 ProdZanna/ProdZanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
